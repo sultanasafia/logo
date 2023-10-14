@@ -50,6 +50,13 @@ p{
     margin-top: -18px;
     text-align: center;
 }
+
+@media screen and (max-width:370px){
+    span{
+            margin-left: 153px;
+            background-color: ivory;
+    }    
+    }
 @media screen and (max-width:450px){
     section{
         max-width: 320px;
